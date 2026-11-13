@@ -1,0 +1,15 @@
+# бинарники
+file_server_select
+client
+*.o
+
+# скачанные файлы
+downloaded_*
+
+# временные
+*.log
+*.tmp
+
+# системный мусор
+.DS_Store
+
